@@ -10,4 +10,4 @@ modified code to add diabatic heating
 
 2) cam_diagnostics.F90 is used to output the added temperature tendency variable "XXH"
 
-3) change amount and time of added heating in physpkg.F90 
+3) change amount, location and time of the added heating in physpkg.F90 
