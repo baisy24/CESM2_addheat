@@ -1,6 +1,6 @@
 ## This project is used to add diabatic heating to CESM2/CAM6
 
-To use, simply put all the F90 files into your $CASEDIR/SourceMods/src.cam/
+To use, simply put all F90 files into your $CASEDIR/SourceMods/src.cam/ directory
 
 ## Descriptions of the F90 scripts:
 
