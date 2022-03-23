@@ -19,5 +19,7 @@ modified code to add diabatic heating
 ## How to cite
 
 If you would like to use this script, please cite the following publications:
+
 Bai, H. and Schumacher, C., 2021. The Interaction between the Nocturnal Amazonian Low-Level Jet and Convection in CESM. Journal of Climate, 34(21), 8519-8532.
+
 Lappen, C.L. and Schumacher, C., 2012. Heating in the tropical atmosphere: what level of detail is critical for accurate MJO simulations in GCMs?. Climate Dynamics, 39(9), 2547-2568.
